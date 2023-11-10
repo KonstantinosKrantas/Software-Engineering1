@@ -6,4 +6,4 @@ Also we designed the interface of the app
 and completed the modeling part using UML. 
 For the 2nd Deliverable, we demonstrated the Design Patterns which will be used,
 defined our resources and our REST interface using SwaggerHub.
-Finally, we used Node-RED to run our users stories
+Finally, we used Node-RED to run our users stories.
